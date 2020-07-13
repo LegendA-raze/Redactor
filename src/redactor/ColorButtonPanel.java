@@ -14,6 +14,8 @@ public class ColorButtonPanel extends JPanel{
 		this.setBounds(0, buttonSize, buttonSize, height);
 		this.setBackground(new Color(127, 255, 212));
                 this.add(new BlueColorButton());
+                this.add(new RedColorButton());
+                this.add(new GreenColorButton());
                 
 	}
 }
