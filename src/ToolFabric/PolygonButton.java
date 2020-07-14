@@ -5,10 +5,6 @@ import java.awt.event.ActionListener;
 import redactor.Model;
 import shapes.PolygonShape;
 
-/**
- *
- * @author user
- */
 public class PolygonButton extends BaseButton {
 
     private static final long serialVersionUID = 1L;

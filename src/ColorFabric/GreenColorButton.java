@@ -9,7 +9,6 @@ import java.awt.Color;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import redactor.Model;
-import redactor.Queue;
 
 public class GreenColorButton extends BaseColorButton {
 

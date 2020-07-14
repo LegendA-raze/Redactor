@@ -5,10 +5,6 @@ import java.awt.event.ActionListener;
 import java.io.IOException;
 import redactor.Model;
 
-/**
- *
- * @author user
- */
 public class RefreshButton extends BaseButton {
 
     private static final long serialVersionUID = 1L;

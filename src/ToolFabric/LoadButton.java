@@ -7,10 +7,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import redactor.Model;
 
-/**
- *
- * @author user
- */
 public class LoadButton extends BaseButton {
 
     private static final long serialVersionUID = 1L;
